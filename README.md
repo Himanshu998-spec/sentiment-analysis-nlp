@@ -190,6 +190,7 @@ SQL was used for:
 
 \[Mental Health Text Classification Dashboard](TabLeauDasboard.png)
 
+<img width="1510" height="1007" alt="TabLeauDasboard" src="https://github.com/user-attachments/assets/8fb68ef5-708e-44be-93a1-cf373def519e" />
 
 
 The Tableau workbook contains visualizations including:
